@@ -2,7 +2,7 @@
 
 Display log with styles.
 
-![](./screenshot.png)
+![](screenshot.png)
 
 ## Install
 
