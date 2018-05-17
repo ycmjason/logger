@@ -2,7 +2,7 @@
 
 Display log with styles.
 
-![screenshot](screenshot.png)
+![screenshot](https://raw.githubusercontent.com/ycmjason/logger/master/screenshot.png)
 
 ## Install
 
