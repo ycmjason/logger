@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "postpublish": "git push --all && git push --java",
     "test": "jest"
   },
   "keywords": [],
